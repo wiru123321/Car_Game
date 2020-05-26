@@ -1,0 +1,28 @@
+﻿  Score_money.cpp
+  Road.cpp
+c:\users\wojte\source\repos\0490cffb-gr22-repo\projekt\projekt_pk4\projekt_pk4\road.cpp(14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\wojte\source\repos\0490cffb-gr22-repo\projekt\projekt_pk4\projekt_pk4\road.cpp(15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\wojte\source\repos\0490cffb-gr22-repo\projekt\projekt_pk4\projekt_pk4\road.cpp(16): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\wojte\source\repos\0490cffb-gr22-repo\projekt\projekt_pk4\projekt_pk4\road.cpp(17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\wojte\source\repos\0490cffb-gr22-repo\projekt\projekt_pk4\projekt_pk4\road.cpp(34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\wojte\source\repos\0490cffb-gr22-repo\projekt\projekt_pk4\projekt_pk4\road.cpp(36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\wojte\source\repos\0490cffb-gr22-repo\projekt\projekt_pk4\projekt_pk4\road.cpp(38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\wojte\source\repos\0490cffb-gr22-repo\projekt\projekt_pk4\projekt_pk4\road.cpp(40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Obstacles.cpp
+c:\users\wojte\source\repos\0490cffb-gr22-repo\projekt\projekt_pk4\projekt_pk4\obstacles.cpp(8): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\wojte\source\repos\0490cffb-gr22-repo\projekt\projekt_pk4\projekt_pk4\obstacles.cpp(23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  List.cpp
+  Intro.cpp
+c:\users\wojte\source\repos\0490cffb-gr22-repo\projekt\projekt_pk4\projekt_pk4\intro.cpp(66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\wojte\source\repos\0490cffb-gr22-repo\projekt\projekt_pk4\projekt_pk4\intro.cpp(70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GameStart.cpp
+  GameLoop.cpp
+c:\users\wojte\source\repos\0490cffb-gr22-repo\projekt\projekt_pk4\projekt_pk4\gameloop.cpp(128): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Car.cpp
+c:\users\wojte\source\repos\0490cffb-gr22-repo\projekt\projekt_pk4\projekt_pk4\car.cpp(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\wojte\source\repos\0490cffb-gr22-repo\projekt\projekt_pk4\projekt_pk4\car.cpp(36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\wojte\source\repos\0490cffb-gr22-repo\projekt\projekt_pk4\projekt_pk4\car.cpp(41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\wojte\source\repos\0490cffb-gr22-repo\projekt\projekt_pk4\projekt_pk4\car.cpp(56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Projekt_PK4.vcxproj -> C:\Users\wojte\Source\Repos\0490cffb-gr22-repo\Projekt\Projekt_PK4\x64\Debug\Projekt_PK4.exe
+  Projekt_PK4.vcxproj -> C:\Users\wojte\Source\Repos\0490cffb-gr22-repo\Projekt\Projekt_PK4\x64\Debug\Projekt_PK4.pdb (Full PDB)
